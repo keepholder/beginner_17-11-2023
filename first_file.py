@@ -1,3 +1,3 @@
-odessa_city = "odessa is my lovely city"
+odessa_city = "odessa my lovely city"
 
 print(odessa_city)
